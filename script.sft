@@ -1,5 +1,5 @@
 //script.sft
-
+//demo
 
 touch_at(136,49,0);
 delay(1);
