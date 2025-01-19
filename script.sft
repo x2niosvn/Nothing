@@ -1,11 +1,21 @@
 //script.sft
 
 
-touch_at(136,49,1);
+touch_at(136,49,0);
 delay(1);
-touch_at(201,45,1);
+touch_at(201,45,0);
 delay(1);
-touch_at(276,43,1);
+touch_at(276,43,0);
 delay(1);
-touch_at(30,40,1);
+touch_at(136,49,0);
+delay(1);
+touch_at(201,45,0);
+delay(1);
+touch_at(276,43,0);
+delay(1);
+touch_at(136,49,0);
+delay(1);
+touch_at(201,45,0);
+delay(1);
+touch_at(276,43,0);
 delay(1);
