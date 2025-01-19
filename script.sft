@@ -1,9 +1,8 @@
 //script.sft
 
-touch_up(100,200); // fake nhấc tay khỏi toạ độ x và y
-touch_down(100,200); // fake nhấn tay xuống từ toạ độ x và y
 
 touch_at(100,200,2000); // nhấn xuống và thả lên luôn với toạ độ x và y, còn s là thời gian delay trong khoảng thời gian nhấn và thả
-
+touch_at(300,400,2000);
+touch_at(200,100,2000);
 move_touch(100,200,400,500,5000) // chạm từ x và y, xong sẽ kéo đến x và y mới, và s cuối cùng là delay trong quãng đường di chuyển
 
